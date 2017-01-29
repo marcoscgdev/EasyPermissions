@@ -22,8 +22,7 @@ allprojects {
 Now add the dependency to your app build.gradle file:
 
 ```
-coming soon
-
+compile 'com.github.marcoscgdev:EasyPermissions:1.2'
 ```
 
 ### Request permissions
